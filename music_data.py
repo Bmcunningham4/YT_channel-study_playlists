@@ -1,6 +1,6 @@
 
-#! Lofi Girl - 1AM Study Session (https://www.youtube.com/watch?v=lTRiuFIWV54&t=370s)
-data1 = """[00:00] - Intro
+#? Lofi Girl - 1AM Study Session (https://www.youtube.com/watch?v=lTRiuFIWV54&t=370s)
+song1 = """[00:00] - Intro
 [00:15] WYS - Snowman
 [03:25] Fatb - Cotton Cloud
 [05:28] rook1e x tender spring - the places we used to walk
@@ -30,8 +30,8 @@ data1 = """[00:00] - Intro
 [58:06] Mondo Loops - Lunar Drive
 [61:13]"""
 
-#! Lofi Girl - 12AM Study Session (https://www.youtube.com/watch?v=l98w9OSKVNA)
-data2 = """[00:00] - Intro
+#? Lofi Girl - 12AM Study Session (https://www.youtube.com/watch?v=l98w9OSKVNA)
+song2 = """[00:00] - Intro
 [00:00] Tibeauthetraveler x So.Lo - Goodnight
 [02:56] eaup x Epona - Seashells
 [05:11] Lawrence Walther x Tibeauthetraveler - Tender
@@ -60,4 +60,31 @@ data2 = """[00:00] - Intro
 [60:46] Kinissue x softy x Redmatic - Serenity
 [61:59]"""
 
+#? Lofi Girl - 3AM Study Sesh music (https://www.youtube.com/watch?v=BTYAsjAVa3I&t=2691s)
+song3 = """[00:00] - Intro
+[00:00] No Spirit - Glowing Lights
+[02:45] dryhope - somewhere else
+[05:20] Eisu - Sheets
+[07:13] Casiio x Sleepermane - Phantasm
+[09:13] Project AER x WYS - After Sunset
+[11:49] Tenno - Luna
+[14:20] Sebastian Kamae x Intoku - Lucid
+[16:29] Epektase x j'san - Contemplation
+[19:42] Casiio x Sleepermane - Signals
+[21:26] Phlocalyst x Living Room - Feelings
+[23:47] Pandrezz - Blind Forest 
+[26:35] SwuM x chief. - Show me How
+[29:17] Comodo - Numb
+[32:36] TABAL x mell-ø - Weightless
+[34:49] Ambulo - Night Bus
+[37:03] Kanisan x Frad - Fireflies
+[39:05] H.1 - Timeless
+[41:11] Yasumu - Recharge
+[43:30] cxlt. - Fade Away
+[46:10] Mondo Loops x Kanisan - Escape Route
+[48:15] towerz - fateful slumber
+[50:59] brillion. - Crescent
+[54:22] less.people - persist
+[57:21] Mondo Loops - Drifting Far Away
+[60:03]"""
 # In my private repository I have roughly 15 videos for each genre ~ 400 songs

@@ -6,3 +6,4 @@ Also
 - Part from resume
 - Link to youtube channel (Flowstate studio)
 - Start date: -- end date: ongoing..
+- Mention that I use filepaths on my pc eg. magicpath... so won't work on someone elses..
